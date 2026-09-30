@@ -1,9 +1,0 @@
-**
-!Dockerfile
-!package.json
-!server/
-!server/auth.cjs
-!server/start.cjs
-!server/rooms.cjs
-!outputs/
-!outputs/index.html
